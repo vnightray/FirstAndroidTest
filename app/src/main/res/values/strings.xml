@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My First Application</string>
+    <string name="grater">字体增加</string>
+    <string name="smaller">字体减小</string>
+    <string name="modify">字体调整</string>
+
+</resources>
