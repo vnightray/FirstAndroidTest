@@ -4,4 +4,15 @@
     <string name="smaller">字体减小</string>
     <string name="modify">字体调整</string>
 
+    <string name="book_read_label">Read</string>
+    <string name="date_picker_title">Date of book:</string>
+
+    <string name="new_book">New Book</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$d books</string>
+
+    <string name="book_owner_text">Choose Owner</string>
+    <string name="book_report_text">Send Book Report</string>
+
 </resources>

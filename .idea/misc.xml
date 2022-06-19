@@ -4,15 +4,29 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/useful/androidProjects/androidtest/MyFirstApplication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1115" />
+        <entry key="..\:/useful/androidProjects/androidtest/MyFirstApplication/app/src/main/res/drawable/underline.xml" value="0.1555" />
+        <entry key="..\:/useful/androidProjects/androidtest/MyFirstApplication/app/src/main/res/layout-land/button_and_textview.xml" value="0.1917989417989418" />
+        <entry key="..\:/useful/androidProjects/androidtest/MyFirstApplication/app/src/main/res/layout/activity_book_pager.xml" value="0.23697916666666666" />
+        <entry key="..\:/useful/androidProjects/androidtest/MyFirstApplication/app/src/main/res/layout/activity_fragment.xml" value="0.23697916666666666" />
         <entry key="..\:/useful/androidProjects/androidtest/MyFirstApplication/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/useful/androidProjects/androidtest/MyFirstApplication/app/src/main/res/layout/activity_twopane.xml" value="0.24114583333333334" />
+        <entry key="..\:/useful/androidProjects/androidtest/MyFirstApplication/app/src/main/res/layout/bindservice_and_intentservice_compare.xml" value="0.1" />
+        <entry key="..\:/useful/androidProjects/androidtest/MyFirstApplication/app/src/main/res/layout/book_fragment.xml" value="0.23697916666666666" />
+        <entry key="..\:/useful/androidProjects/androidtest/MyFirstApplication/app/src/main/res/layout/bookname_input_item.xml" value="0.24114583333333334" />
+        <entry key="..\:/useful/androidProjects/androidtest/MyFirstApplication/app/src/main/res/layout/button_and_textview.xml" value="0.19972826086956522" />
         <entry key="..\:/useful/androidProjects/androidtest/MyFirstApplication/app/src/main/res/layout/contactscontract_test.xml" value="0.23697916666666666" />
         <entry key="..\:/useful/androidProjects/androidtest/MyFirstApplication/app/src/main/res/layout/dbsearch_test.xml" value="0.23697916666666666" />
+        <entry key="..\:/useful/androidProjects/androidtest/MyFirstApplication/app/src/main/res/layout/fragment_book_item.xml" value="0.6182432432432432" />
+        <entry key="..\:/useful/androidProjects/androidtest/MyFirstApplication/app/src/main/res/layout/list_item_book.xml" value="0.24114583333333334" />
         <entry key="..\:/useful/androidProjects/androidtest/MyFirstApplication/app/src/main/res/layout/listview_item.xml" value="0.23697916666666666" />
         <entry key="..\:/useful/androidProjects/androidtest/MyFirstApplication/app/src/main/res/layout/listviewsample.xml" value="0.176" />
+        <entry key="..\:/useful/androidProjects/androidtest/MyFirstApplication/app/src/main/res/layout/myservice_test1.xml" value="0.2816301703163017" />
         <entry key="..\:/useful/androidProjects/androidtest/MyFirstApplication/app/src/main/res/layout/option_menu.xml" value="0.1" />
         <entry key="..\:/useful/androidProjects/androidtest/MyFirstApplication/app/src/main/res/layout/runnablesample.xml" value="0.9111842105263158" />
         <entry key="..\:/useful/androidProjects/androidtest/MyFirstApplication/app/src/main/res/layout/sharedpreference_config.xml" value="0.23697916666666666" />
         <entry key="..\:/useful/androidProjects/androidtest/MyFirstApplication/app/src/main/res/layout/toast_sample.xml" value="0.1" />
+        <entry key="..\:/useful/androidProjects/androidtest/MyFirstApplication/app/src/main/res/layout/twobutton.xml" value="0.11927083333333334" />
+        <entry key="..\:/useful/androidProjects/androidtest/MyFirstApplication/app/src/main/res/menu/fragment_book_list.xml" value="0.23697916666666666" />
         <entry key="..\:/useful/androidProjects/androidtest/MyFirstApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1075" />
       </map>
     </option>

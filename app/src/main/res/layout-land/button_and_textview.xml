@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/contentbtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="click here"
+        android:textSize="25dp"></Button>
+
+    <Button
+        android:id="@+id/contentbtn2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="start new activity"
+        android:textSize="25dp"></Button>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/contenttv"
+        android:hint="lalala"
+        ></TextView>
+
+</LinearLayout>
