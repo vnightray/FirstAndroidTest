@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">我的应用</string>
+    <string name="grater">字体增加</string>
+    <string name="smaller">字体减小</string>
+    <string name="modify">字体调整</string>
+
+    <string name="book_read_label">已读</string>
+    <string name="date_picker_title">书本添加日期:</string>
+
+    <string name="new_book">新书</string>
+    <string name="show_subtitle">显示副标题</string>
+    <string name="hide_subtitle">因此副标题</string>
+    <string name="subtitle_format">%1$d books</string>
+
+    <string name="book_owner_text">选择作者</string>
+    <string name="book_report_text">发送</string>
+
+
+</resources>
